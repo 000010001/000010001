@@ -1,7 +1,8 @@
---I’m @000010001
---I’m interested in DATABASE 
---I’m currently learning SQL
---I’m looking to collaborate on HUMANS INTERSTS 
+<I’m @000010001>
+<From BR>
+{(I’m interested in DATABASE)}
+(I’m currently learning SQL)
+[I’m looking to collaborate on HUMANS INTERSTS ]
 
 
 <!---
